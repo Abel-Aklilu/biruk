@@ -1,0 +1,62 @@
+body{
+  margin: 0px;
+  margin-top: auto;
+}
+
+h1{
+  margin: auto;
+  padding:13% 15%;
+  color: #7D7C7C;
+}
+
+
+
+.testimonial{
+  text-align: center;
+  background-color: #088395;
+  margin-left: auto;
+  margin-top: 0px;
+}
+
+
+.rick{
+  height : 10%;
+  width: 30%;
+  border-radius: 100%;
+}
+
+.tupack{
+  height: 20%;
+  width: 20%;
+  border-radius: 100%;
+}
+
+.ab{
+  height : 10%;
+  width: 23%;
+  border-radius: 100%;
+}
+
+.chad{
+  height : 10%;
+  width: 23%;
+  border-radius: 100%;
+}
+
+.fucking{
+  height : 10%;
+  width: 23%;
+  border-radius: 100%;
+}
+
+.Gay{
+  height : 20%;
+  width: 46%;
+  border-radius: 100%;
+}
+
+.giphy{
+  height: 300px;
+  width: 30%;
+  border-radius: 100%;
+}
